@@ -9,6 +9,8 @@
 
 **Built With**
 ---
+### **Roblox Studio**
+### **Luau**
 
 
 **Getting Started**
@@ -57,10 +59,10 @@
 **Features**
 --
 
-- Randomized puzzle generation
+- Randomized Puzzle Generation
 - AI helper with dynamic hints
-- Interactive objects
-- Multiplayer support
+- Interactive Objects
+- Multiplayer Support
 - Audio and visual horror elements
 - Replayable game sessions with different outcomes
 
