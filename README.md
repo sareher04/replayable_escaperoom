@@ -7,6 +7,7 @@
 
 
 **Getting Started**
+---
 
 ***Creating an Account***
 
