@@ -5,12 +5,15 @@
 
 **About**
 ---
+The Roblox Replayable Escape Room is a 3D puzzle-based game built in Roblox Studio. Players must solve puzzles, interact with objects, and use hints from an AI character to escape. Each playthrough is different — puzzles, item locations, and story outcomes are randomized to keep the game fresh. The game aims to combine challenge, storytelling, and atmosphere (including audio cues and horror elements) for a fun, replayable experience.
 
 
 **Built With**
 ---
 ### **Roblox Studio**
-### **Luau** [https://create.roblox.com/docs/luau](https://create.roblox.com/docs/luau)
+- [https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio](https://create.roblox.com/docs/tutorials/curriculums/studio/install-studio)
+### **Luau** 
+- [https://create.roblox.com/docs/luau](https://create.roblox.com/docs/luau)
 
 
 **Getting Started**
