@@ -56,3 +56,11 @@
 
 **Features**
 --
+
+- Randomized puzzle generation
+- AI helper with dynamic hints
+- Interactive objects
+- Multiplayer support
+- Audio and visual horror elements
+- Replayable game sessions with different outcomes
+
