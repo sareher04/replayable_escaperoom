@@ -25,6 +25,26 @@
 
 **Contributors**
 --
+Sarah Hermida: UI/UX Designer 
+Designs all on-screen interfaces and mobile controls 
+Test for bugs and ensures a smooth player experience 
+
+Bryan Granados: Systems Architect
+Builds core game framework
+Manages data saving, server communication, and security
+
+Felix Montes-Flores: AI and Narrative Designer
+Creates AI helper character
+Implements voice lines, dialogue, and hint systems
+
+Jacob Valmeo : Puzzle Scripter
+Designs and builds interactive puzzles 
+Scripts game mechanics and player interactions 
+
+Andres Feldstedt: Environment Artist
+Constructs the 3D rooms and environments
+Creates props, lighting, and visual atmosphere
+
 
 **Features**
 --
