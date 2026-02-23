@@ -6,8 +6,8 @@
 ---
 
 
-##Getting Started
+**Getting Started**
 
-###Creating an Account
+***Creating an Account***
 
-###Installation
+***Installation***
