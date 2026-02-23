@@ -12,7 +12,7 @@
 ***Creating an Account***
 1. Open any browser and visit [https://www.roblox.com](https://www.roblox.com)
 
-2.  Sign Up for a Roblox Account
+2.  Sign Up for a Roblox Account using the correct credentials
 
 
 ***Installation***
