@@ -29,7 +29,7 @@ The Roblox Replayable Escape Room is a 3D puzzle-based game built in Roblox Stud
 1. Download Roblox
 2. Log into your Roblox account
 3. Join the server
-- [https://www.roblox.com/games/84390703340907/MILLERMANSION](https://www.roblox.com/games/84390703340907/MILLERMANSION)
+[https://www.roblox.com/games/84390703340907/MILLERMANSION](https://www.roblox.com/games/84390703340907/MILLERMANSION)
 4. Click Play
 
 
