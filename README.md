@@ -26,14 +26,14 @@
 **Contributors**
 --
 ### **Sarah Hermida** – UI/UX Designer  
-Designs all on-screen interfaces and mobile controls  
-Tests for bugs and ensures a smooth player experience  
+- Designs all on-screen interfaces and mobile controls  
+- Tests for bugs and ensures a smooth player experience  
 
 ---
 
 ### **Bryan Granados** – Systems Architect  
-Builds core game framework  
-Manages data saving, server communication, and security  
+- Builds core game framework  
+- Manages data saving, server communication, and security  
 
 ---
 
@@ -44,14 +44,14 @@ Manages data saving, server communication, and security
 ---
 
 ### **Jacob Valmeo** – Puzzle Scripter  
-Designs and builds interactive puzzles  
-Scripts game mechanics and player interactions  
+- Designs and builds interactive puzzles  
+- Scripts game mechanics and player interactions  
 
 ---
 
 ### **Andres Feldstedt** – Environment Artist  
-Constructs the 3D rooms and environments  
-Creates props, lighting, and visual atmosphere  
+- Constructs the 3D rooms and environments  
+- Creates props, lighting, and visual atmosphere  
 
 
 **Features**
