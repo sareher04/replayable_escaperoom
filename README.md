@@ -32,8 +32,7 @@ The Roblox Replayable Escape Room is a 3D puzzle-based game built in Roblox Stud
 4. Click Play
 
 
-![RobloxStudioBeta_LW0FxTmQZb](https://github.com/user-attachments/assets/a4530b40-0236-4f26-8490-337837c8e234)
-![RobloxStudioBeta_LW0FxTmQZb](https://github.com/user-attachments/assets/a4530b40-0236-4f26-8490-337837c8e234)
+
 
 
 
