@@ -10,7 +10,7 @@
 **Built With**
 ---
 ### **Roblox Studio**
-### **Luau**
+### **Luau** [https://create.roblox.com/docs/luau](https://create.roblox.com/docs/luau)
 
 
 **Getting Started**
